@@ -5,7 +5,7 @@ There i learned Learn how to use Git by reviewing the basic concepts of Git vers
 
 #### My report card
 
-[code school Report Card](https://www.codeschool.com/users/247304)
+[code school Report Card](https://www.codeschool.com/users/247304 target="_blank")
 
 
 ### You can try out this introductory course at.
