@@ -10,7 +10,7 @@ I also learned R Statistical Programming Language basics there as well, in there
 <A HREF ="https://www.codeschool.com/users/247304" target="_blank"> code school Report Card</A>
 
 
-### You can try out this introductory course at.
+### You can try out these FREE introductory course at.
 
 <A HREF="https://www.codeschool.com/courses/try-r" target="_blank"> trR at code school</A>
 
