@@ -1,9 +1,9 @@
 ## Example repo for codeschool tryGit course.
 ---
 
-There i learned Learn how to use Git by reviewing the basic concepts of Git version control, with the tryGit Course.
+There i learned how to use Git by reviewing the basic concepts of Git version control, in there tryGit Course.
 
-I also leraned R Statistical Programming Language basics there as well, in the tryR course.
+I also learned R Statistical Programming Language basics there as well, in there tryR course.
 
 #### My code school report card
 
