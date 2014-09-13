@@ -12,4 +12,6 @@ I also learned R Statistical Programming Language basics there as well, in there
 
 ### You can try out this introductory course at.
 
-<A HREF="https://www.codeschool.com/courses/try-git" target="_blank">tryGit at code scchool</A>
+<A HREF="https://www.codeschool.com/courses/try-r" target="_blank"> trR at code school</A>
+
+<A HREF="https://www.codeschool.com/courses/try-git" target="_blank"> tryGit at code scchool</A>
